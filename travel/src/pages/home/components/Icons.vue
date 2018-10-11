@@ -126,6 +126,5 @@ export default {
         color : $darkTextColor
         overflow : hidden
         white-space : nowrap
-        y
         ellipsis()
 </style>
